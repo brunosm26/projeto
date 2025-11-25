@@ -1,5 +1,5 @@
 # Programação Imperativa e Funcional — 2025.2
-              # CESAR School
+#CESAR School
 
 
 ### 👥 Integrantes do Grupo

@@ -1,8 +1,5 @@
-╔══════════════════════════════════════════════════════════════╗
-║ 📘 DISCIPLINA: PROGRAMAÇÃO IMPERATIVA E FUNCIONAL — 2025.2   ║
-╠══════════════════════════════════════════════════════════════╣
-║ 🏫 INSTITUIÇÃO: CESAR SCHOOL                                 ║
-╚══════════════════════════════════════════════════════════════╝
+Programação Imperativa e Funcional — 2025.2
+              CESAR School
 
 
 ### 👥 Integrantes do Grupo

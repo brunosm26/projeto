@@ -1,4 +1,22 @@
-# 🐎 Corrida dos Cavalos
+╔══════════════════════════════════════════════════════════════╗
+║        📘  DISCIPLINA: PROGRAMAÇÃO IMPERATIVA E FUNCIONAL    ║
+║                             2025.2                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                 🏫  INSTITUIÇÃO: CESAR SCHOOL               ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+### 👥 Integrantes do Grupo
+
+| Nome do Aluno     | GitHub            |
+|-------------------|-------------------|
+| Bruno Martin      | @brunosm26        |
+| Bruno José        | @brunodf081       |
+| Igor Kauã         | @igorriqzzin      |
+| Matheus Conolly   | @Conolly-devops   |
+
+
+# 🐎 Horse's Logic Race
 
 Um jogo de corrida de cavalos para terminal, com perguntas de lógica proposicional, ranking de vencedores e pista com emojis.
 

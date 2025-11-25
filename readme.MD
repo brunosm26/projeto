@@ -1,8 +1,7 @@
 ╔══════════════════════════════════════════════════════════════╗
-║        📘  DISCIPLINA: PROGRAMAÇÃO IMPERATIVA E FUNCIONAL    ║
-║                             2025.2                           ║
+║ 📘 DISCIPLINA: PROGRAMAÇÃO IMPERATIVA E FUNCIONAL — 2025.2   ║
 ╠══════════════════════════════════════════════════════════════╣
-║                 🏫  INSTITUIÇÃO: CESAR SCHOOL               ║
+║ 🏫 INSTITUIÇÃO: CESAR SCHOOL                                 ║
 ╚══════════════════════════════════════════════════════════════╝
 
 

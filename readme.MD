@@ -61,7 +61,7 @@ O jogo é baseado em cliques, onde os jogadores podem apertar suas teclas a qual
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/projeto.git
+   git clone https://github.com/brunosm26/projeto.git
    cd projeto
 2. Compile 
     make
